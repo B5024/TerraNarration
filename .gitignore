@@ -1,0 +1,21 @@
+# tModLoader 编译产物
+bin/
+obj/
+*.dll
+*.pdb
+
+# Visual Studio 产生的临时文件
+.vs/
+*.user
+*.sln.docstates
+*.suo
+
+# VS Code 产生的临时文件
+.vscode/
+
+# 操作系统产生的杂项
+.DS_Store
+Thumbs.db
+
+# 如果你不希望将本地测试生成的日志或配置上传
+tModLoader-Logs/
