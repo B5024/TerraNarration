@@ -7,10 +7,22 @@
     "咳咳...感觉不太妙...",
     "眼前有点发黑...",
     "药水！我的药水在哪？！",
-    "不行，得先撤退了..."
+    "情况还真是急转直下啊"
   ],
+
+  "LowManaQuotes": ["我的魔力已经被榨干了", ""],
 
   "MiningQuotes": ["怎么全是石头...", "挖到宝贝了吗？"],
 
-  "AxingQuotes": ["幸好砍树不像在MC里那样", "嘿呀嘿"]
+  "AxingQuotes": ["幸好砍树不像在MC里那样", "嘿呀嘿"],
+
+  "SkeletronSpawnQuotes": [
+    "来吧,试一下米妮",
+    "这个波斯超囊啊对我来说",
+    "蚩尤说,又是这个囊得过分的boss"
+  ],
+
+  "SkeletronStarCannonQuotes": ["这个boss用这个枪来打,从来没试过哦"],
+
+  "EyeOfCthulhuSpawnQuotes": ["为什么不能是商人挡在我和这玩意之间?"]
 }
